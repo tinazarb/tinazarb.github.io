@@ -15,11 +15,11 @@ const Header = () => {
       </div>
       <div className={styles.text}>
         <h2>
-          <span>Hi, I'm </span>Tina.{' '}
+          <span>Hi, I'm </span>Tina{' '}
         </h2>
         <h2>
           <span> A</span> software engineer
-          <span> based in </span>New York.
+          <span> based in </span>New York
         </h2>
       </div>
     </header>
