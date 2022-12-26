@@ -76,7 +76,7 @@ h6 {
 span {
   @supports (-webkit-text-stroke: 3px variables.$black) {
     -webkit-text-stroke: 3px variables.$black;
-    -webkit-text-fill-color: transparent;
+    -webkit-text-fill-color: variables.$background;
   }
 }
 

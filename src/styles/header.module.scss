@@ -15,34 +15,30 @@
   align-items: center;
 
   @media only screen and (max-width: 56.25em) {
-    // max: 900
-    margin-right: 0;
+    margin-right: 5rem;
     justify-content: space-around;
   }
 }
 
 .text {
-  // border: 1px solid red;
+  text-align: center;
   min-height: calc(80vh - 5rem);
   display: flex;
   flex-direction: column;
   justify-content: center;
-  max-width: 100rem;
+  max-width: 70rem;
   margin: 0 auto;
 
   @media only screen and (max-width: 112.5em) {
-    // max: 1800
     max-width: 100%;
     padding: 0 3rem;
   }
 
   @media only screen and (max-width: 56.25em) {
-    // max: 900
     text-align: center;
   }
 
   @media only screen and (max-width: 37.5em) {
-    // max: 600
     padding: 0 1.5rem;
   }
 }

@@ -13,12 +13,13 @@ const About = () => {
             <p>
               I'm a recent graduate from{' '}
               <a
-                href="https://www.gracehopper.com/"
+                href="https://www.gracehopper.com/about"
                 rel="noopener noreferrer"
                 target="_blank">
                 The Grace Hopper Coding Bootcamp
               </a>
-              , which I attended with the help of a scholarship from{' '}
+              , which I attended with the help of The Edie Windsor Scholarship
+              from{' '}
               <a
                 href="https://lesbianswhotech.org"
                 rel="noopener noreferrer"
