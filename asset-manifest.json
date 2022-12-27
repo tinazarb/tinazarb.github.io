@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7e700af9.css",
+    "main.js": "/static/js/main.18971bcf.js",
+    "static/media/tomato.gif": "/static/media/tomato.70bf5d912eb80e2a2f5a.gif",
+    "static/media/pottery.gif": "/static/media/pottery.35415ab43030136ab100.gif",
+    "static/media/pottery-studio.png": "/static/media/pottery-studio.ac6992077f76606918a3.png",
+    "static/media/me.jpg": "/static/media/me.2175ea0800dc1de11025.jpg",
+    "static/media/tomato.png": "/static/media/tomato.13d0cfce4a359bd2d8c5.png",
+    "static/media/background-1.jpg": "/static/media/background-1.c8342be8f805c2f79355.jpg",
+    "index.html": "/index.html",
+    "main.7e700af9.css.map": "/static/css/main.7e700af9.css.map",
+    "main.18971bcf.js.map": "/static/js/main.18971bcf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e700af9.css",
+    "static/js/main.18971bcf.js"
+  ]
+}
