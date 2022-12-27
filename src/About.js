@@ -69,6 +69,7 @@ const About = () => {
                 <li>Express</li>
                 <li>Sequelize</li>
                 <li>PostgreSQL</li>
+                <li>Firestore</li>
               </ul>
             </div>
           </div>
